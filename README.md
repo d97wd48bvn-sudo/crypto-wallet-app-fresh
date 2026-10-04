@@ -11,7 +11,7 @@ A React + ethers.js wallet app with:
 ## Run locally
 ```bash
 npm install
-npm run dev
+    npm run dev
 ```
 
 ## Notes
