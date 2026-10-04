@@ -1,4 +1,4 @@
-            # Ethereum Wallet App
+                # Ethereum Wallet App
 
 A React + ethers.js wallet app with:
 - MetaMask connection
